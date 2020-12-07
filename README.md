@@ -8,4 +8,4 @@ I've been working with great agencies like [The I](https://www.thei.it), [CUBA](
 HTML5 | CSS3 | Javascript ES6 | PHP | WordPress | Prestashop | Cinema4D | Octane | Adobe Suite
 
 📫 How to reach me:  
-you can [write me an e-mail](mailto:caldonfederico@gmail.com) or [ask me to connect on Linkedin](https://www.linkedin.com/in/federicocaldon/).
+You can [write me an e-mail](mailto:caldonfederico@gmail.com) or [ask me to connect on Linkedin](https://www.linkedin.com/in/federicocaldon/).
