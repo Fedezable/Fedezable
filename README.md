@@ -1,6 +1,6 @@
 ### Hi there, I'm Federico 👋
 
-I'm a freelance **creative developer and visual artist** based in **Italy** with a background in the design industry sthat's till (lovingly) haunting me. 
+I'm a freelance **creative developer and visual artist** based in **Italy** with a background in the design industry still (lovingly) haunting me. 
 
 I've been working with great agencies like [The I](https://www.thei.it), [CUBA](https://www.cubastudio.it), [Web4](https://www.web4.online), [Glowworm](http://www.glowormadv.com/) and companies like [IDO](http://www.italiandesignoutlet.it/), [Bonaldo](http://www.bonaldo.it/), [Rubelli](http://www.rubelli.com/), [ProNails](http://www.pronails.it/) since 2016. I'm passionate about coding and 3D arts and I love to make good looking things in not very common ways. 
 
